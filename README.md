@@ -1,3 +1,6 @@
+<img src="https://www.mermaidchart.com/raw/cc603ed1-38a5-4458-9b1e-f917272f31db?theme=light&version=v0.1&format=svg" alt="Java Spring Roadmap" />
+
+
 # 🚀 Java Spring Learning Roadmap
 
 <details>
